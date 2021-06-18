@@ -10,7 +10,7 @@ KDM is A Very Simple Download Manager which was created as a Project with the fo
 
 ## Features
 
-- Add any File's (Zip, Exe, PDF, anything) Download URL
+- Add any Files (Zip, Exe, PDF, anything) Download URL
 - Start Download
 - Ability to Resume and Pause
 - Use for Multiple Downloads
@@ -29,7 +29,7 @@ Dillinger uses a number of open source projects to work properly:
 - [WPF](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation) - Windows Presentation Foundation!
 - [XAML](https://wpf-tutorial.com/xaml/what-is-xaml/) - Microsoft's XML for Designing Windows Software.
 - [AltoHTTP](https://github.com/aalitor/AltoHttp) - A simple library provides downloading over Http.
-- C# - The Programming Langaue used.
+- C# - The Programming Language used.
 
 The source code is public on github
 
