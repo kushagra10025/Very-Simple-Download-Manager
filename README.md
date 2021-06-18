@@ -18,6 +18,10 @@ KDM is A Very Simple Download Manager which was created as a Project with the fo
 Download managers are special programs and browser extensions that help
 keep large downloads downloading as they should and simultaneous ones organized.
 
+## Download Location
+
+The files are Downloaded in a **Download** folder in the Location where you Unzip and Keep the downloader file.
+
 ## Tech
 
 Dillinger uses a number of open source projects to work properly:
